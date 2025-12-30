@@ -6,6 +6,7 @@ The following codes are a first attempt at developing an algorithm to recognize 
 
 * [MoNuSAC grand-challenge](https://monusac-2020.grand-challenge.org/)
 * [Original dataset to download](https://drive.google.com/file/d/1lxMZaAPSpEHLSxGA9KKMt_r-4S8dwLhq/view)
+* In `reference_notebook` folder there are the code given by challenge organizers
 
 ### Dataset
 
